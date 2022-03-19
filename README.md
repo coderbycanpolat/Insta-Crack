@@ -1,7 +1,6 @@
 ## Insta-Crack
 
-# Bu Tool Sayesinde Wordlist Yada Proxy Olmadan
-# Otomatik Şekilde İnstagram Hesap Avlayabilirsin
+# Bu Tool Sayesinde Wordlist Yada Proxy Olmadan Otomatik Şekilde İnstagram Hesap Avlayabilirsin
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
  
